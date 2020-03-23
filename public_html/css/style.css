@@ -1,0 +1,8 @@
+/* table {
+    table-layout: fixed;
+    width: 100%;
+   } 
+   */
+   nav.navbar .dropdown:hover > .dropdown-menu {
+    display: block; 
+   } 
